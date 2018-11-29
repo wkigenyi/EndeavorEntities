@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="OptionsDialog">
+        <file name="systems-tech247-endeavourentities-DatabaseSettingsOptionsPanelController.instance">
+            <!--systems.tech247.endeavourentities.DatabaseSettingsOptionsPanelController-->
+            <attr
+                methodvalue="org.netbeans.spi.options.OptionsCategory.createCategory" name="instanceCreate"/>
+            <attr name="controller" newvalue="systems.tech247.endeavourentities.DatabaseSettingsOptionsPanelController"/>
+            <attr
+                bundlevalue="systems.tech247.endeavourentities.Bundle#OptionsCategory_Name_DatabaseSettings" name="categoryName"/>
+            <attr name="iconBase" stringvalue="systems/tech247/endeavourentities/database.png"/>
+            <attr
+                bundlevalue="systems.tech247.endeavourentities.Bundle#OptionsCategory_Keywords_DatabaseSettings" name="keywords"/>
+            <attr name="keywordsCategory" stringvalue="DatabaseSettings"/>
+        </file>
+    </folder>
+</filesystem>
